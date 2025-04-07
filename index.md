@@ -1,6 +1,6 @@
 # Sarah Balatbat
 
-_**CSE 110 Software Engineering | UC San Diego**_
+***CSE 110 Software Engineering | UC San Diego***
 
 ![Headshot of Sarah](static/balatbat_s.jpg)
 
@@ -61,6 +61,5 @@ I also like playing guitar and singing, playing cozy video games, and naps in a 
 
 ```"Do not kill the part of you that is cringe. Kill the part that cringes."```
 
-[ ] Read this page
-
-[ ] Check out my art maybe... 👉👈
+- [ ] Read this page
+- [ ] Check out my art maybe... 👉👈
