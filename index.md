@@ -1,6 +1,6 @@
 # Sarah Balatbat
 
-***CSE 110 Software Engineering | UC San Diego***
+***CSE 110 Software Engineering*** | ***UC San Diego***
 
 ![Headshot of Sarah](static/balatbat_s.jpg)
 
