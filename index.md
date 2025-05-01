@@ -57,7 +57,7 @@ I also like playing guitar and singing, playing cozy video games, and naps in a 
   > ![Eternal Sunshine of the Spotless Mind Poster](static/Eternal_Sunshine_of_the_Spotless_Mind.png)
 
 ## Relevant Links
-[<ins>LinkedIn</ins>](https://www.linkedin.com/in/sarah-claire-balatbat-456343249/) | [<ins>GitHub</ins>](https://github.com/sbalatbat) | [<ins>My Art</ins>](https://www.instagram.com/incog9to/)
+[<ins>LinkedIn</ins>](https://www.linkedin.com/in/sarah-claire-balatbat-456343249/) | [<ins>GitHub</ins>](https://github.com/sbalatbat) | [<ins>My Art</ins>](https://www.instagram.com/incog9to/) | [<ins>CSE 110 Coursework<ins>](http://sbalatbat.github.io/cse110-sp25/pages/coursework.html)
 
 ```"Do not kill the part of you that is cringe. Kill the part that cringes."```
 
