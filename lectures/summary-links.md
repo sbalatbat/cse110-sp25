@@ -16,3 +16,10 @@
 - [In Class Lecture Notes - 5/13/2025 & 5/15/2025](https://houses-pay-526.craft.me/1Y1XfvKMq383tF)
 - [10 - Building and Deving Part 1](https://houses-pay-526.craft.me/O43FoB5a4asCAa)
 - [11 - Building and Deving Part 2](https://houses-pay-526.craft.me/WJ7bDhvyPDO0T0)
+- 5/20 Class Material
+  - [Great Code is Typically Slow Cooked Code with Few Ingredients](https://houses-pay-526.craft.me/TaRdfarGz3mjR5)
+  - [Ignorance and Haste Makes Waste](https://houses-pay-526.craft.me/sBJoBo0aNdWeYp)
+  - [Defensive Web Dev](https://houses-pay-526.craft.me/g2yePWbjdwOOae)
+  - [Micro Tradeoffs Example](https://houses-pay-526.craft.me/ZDbXyvYuuMnuWw)
+- [12 - Testing and Quality](https://houses-pay-526.craft.me/N0Y0koqTnNUNX3)
+- [Midterm 2 Code Practice](https://files.slack.com/files-pri/T08KEHP2CMP-F08U4807C4A/download/midterm-code-practice.zip?origin_team=T08KEHP2CMP)
